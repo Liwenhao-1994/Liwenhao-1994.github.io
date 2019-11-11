@@ -6,3 +6,9 @@ p {
   background-size: 20px;
   color: blueviolet;
 }
+div {
+  width: 200px;
+  height: 200px;
+  background-color: pink;
+  border: 1px dashed blueviolet;
+}
